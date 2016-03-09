@@ -35,6 +35,10 @@ public class MyHorizetalView extends HorizontalScrollView {
         menu = parentView.getChildAt(0);
         content =parentView.getChildAt(1);
 
+
+
+
+
     }
 
     @Override
