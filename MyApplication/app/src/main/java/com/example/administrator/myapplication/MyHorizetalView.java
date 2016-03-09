@@ -37,8 +37,6 @@ public class MyHorizetalView extends HorizontalScrollView {
 
 
 
-
-
     }
 
     @Override
