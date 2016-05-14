@@ -14,10 +14,7 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 		setContentView(R.layout.activity_main);
 		setContentView(R.layout.activity_main);
-<<<<<<< HEAD
 		//zfsadfasdfsadfasddsfsdsfsds
-=======
 
->>>>>>> 3c6c6c43438a839c66fa86d6019b2a14fe482373
 	}
 }
